@@ -1,0 +1,5 @@
+1. build corpuses (implement input parsing method)
+2. generate random sentences from corpuses (Ngrams)
+3. extract most important words from text
+4. classify text pre labels (users, origin country...)
+5. build word2vec models and classify text
