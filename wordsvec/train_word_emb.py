@@ -47,7 +47,7 @@ def test_model(_model):
 
 if __name__ == "__main__":
 
-    if len(sys.argv) == 1:
+    if len(sys.argv) == 2:
         input_dir = sys.argv[1]
     else:
         input_dir = 'inputs/raw_corpus'
